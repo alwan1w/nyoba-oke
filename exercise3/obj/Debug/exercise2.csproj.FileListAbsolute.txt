@@ -1,0 +1,24 @@
+C:\Users\D E L L\source\repos\exercise2\exercise2\bin\Debug\exercise2.exe.config
+C:\Users\D E L L\source\repos\exercise2\exercise2\bin\Debug\exercise2.exe
+C:\Users\D E L L\source\repos\exercise2\exercise2\bin\Debug\exercise2.pdb
+C:\Users\D E L L\source\repos\exercise2\exercise2\obj\Debug\exercise2.csproj.AssemblyReference.cache
+C:\Users\D E L L\source\repos\exercise2\exercise2\obj\Debug\exercise2.csproj.SuggestedBindingRedirects.cache
+C:\Users\D E L L\source\repos\exercise2\exercise2\obj\Debug\exercise2.csproj.CoreCompileInputs.cache
+C:\Users\D E L L\source\repos\exercise2\exercise2\obj\Debug\exercise2.exe
+C:\Users\D E L L\source\repos\exercise2\exercise2\obj\Debug\exercise2.pdb
+D:\Kuliah\sms2\PAW\Exercise2_20210140027\exercise2\exercise2\bin\Debug\exercise2.exe.config
+D:\Kuliah\sms2\PAW\Exercise2_20210140027\exercise2\exercise2\bin\Debug\exercise2.exe
+D:\Kuliah\sms2\PAW\Exercise2_20210140027\exercise2\exercise2\bin\Debug\exercise2.pdb
+D:\Kuliah\sms2\PAW\Exercise2_20210140027\exercise2\exercise2\obj\Debug\exercise2.csproj.AssemblyReference.cache
+D:\Kuliah\sms2\PAW\Exercise2_20210140027\exercise2\exercise2\obj\Debug\exercise2.csproj.SuggestedBindingRedirects.cache
+D:\Kuliah\sms2\PAW\Exercise2_20210140027\exercise2\exercise2\obj\Debug\exercise2.csproj.CoreCompileInputs.cache
+D:\Kuliah\sms2\PAW\Exercise2_20210140027\exercise2\exercise2\obj\Debug\exercise2.exe
+D:\Kuliah\sms2\PAW\Exercise2_20210140027\exercise2\exercise2\obj\Debug\exercise2.pdb
+D:\Kuliah\sms2\PAW\Exercise3_20210140027\exercise3\exercise2\bin\Debug\exercise2.exe.config
+D:\Kuliah\sms2\PAW\Exercise3_20210140027\exercise3\exercise2\bin\Debug\exercise2.exe
+D:\Kuliah\sms2\PAW\Exercise3_20210140027\exercise3\exercise2\bin\Debug\exercise2.pdb
+D:\Kuliah\sms2\PAW\Exercise3_20210140027\exercise3\exercise2\obj\Debug\exercise2.csproj.AssemblyReference.cache
+D:\Kuliah\sms2\PAW\Exercise3_20210140027\exercise3\exercise2\obj\Debug\exercise2.csproj.SuggestedBindingRedirects.cache
+D:\Kuliah\sms2\PAW\Exercise3_20210140027\exercise3\exercise2\obj\Debug\exercise2.csproj.CoreCompileInputs.cache
+D:\Kuliah\sms2\PAW\Exercise3_20210140027\exercise3\exercise2\obj\Debug\exercise2.exe
+D:\Kuliah\sms2\PAW\Exercise3_20210140027\exercise3\exercise2\obj\Debug\exercise2.pdb
